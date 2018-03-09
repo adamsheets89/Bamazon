@@ -7,3 +7,6 @@ This project involved the usage of mysql and Node.js.
 
 Welcome to my store! Enjoy!
 
+
+Video walk through - https://youtu.be/qhD5tt3h9k8
+
